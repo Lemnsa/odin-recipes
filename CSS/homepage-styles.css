@@ -1,0 +1,15 @@
+/* general style */
+body{
+    text-align: left;
+}
+
+h1{
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background: orangered;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}

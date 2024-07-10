@@ -8,8 +8,17 @@ h1{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
     background: orangered;
+    padding: 10px;
 }
 
 ul{
     font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid orangered;
+    margin-top: 20px;
+    padding: 12px;
+}
+
+li{
+    padding: 12px;
+    margin-left: 20px;
 }
